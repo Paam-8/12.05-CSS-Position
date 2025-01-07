@@ -39,6 +39,10 @@ header{
 /*-----------Abajo son los ajustes a la barra de búsqueda-------------*/
 
 header form{
+    display: flex;
+    justify-content: center;
+    position: relative;
+    left: 2.5rem;
     width: 35%;
 }
 
